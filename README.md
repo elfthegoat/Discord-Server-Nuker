@@ -4,6 +4,6 @@
 - Cutom message to send in each channel
 
 ## Usage
-- Add discord bot to server
+- Add discord bot to server (needs to have admin perms)
 - Get bot token
-- run and fill out script
+- run script and fill everything out as desired
