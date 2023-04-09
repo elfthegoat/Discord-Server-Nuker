@@ -10,5 +10,5 @@
 - run script and fill everything out as desired
 
 
-## star appreciated
+## ⭐ Star Appreciated
 ![image](https://user-images.githubusercontent.com/126424282/230751859-158af790-dfda-42c8-9442-497ae4f02d78.png)
