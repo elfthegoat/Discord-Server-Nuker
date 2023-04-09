@@ -1,3 +1,3 @@
 # Discord-Server-Nuker
-#Features
+## Features
 - Kicks ALL Members + Creates Max Channels 
